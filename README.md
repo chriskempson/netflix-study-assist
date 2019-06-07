@@ -1,5 +1,5 @@
 # Netflix Study Assist
-Makes Netflix a little easier to study a language with (especially Japanese).
+Helps studying a language with Netflix (especially Japanese).
 
 ![screenshot](screenshot.jpg)
 
