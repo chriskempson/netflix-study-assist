@@ -24,5 +24,5 @@ Requires [subadub](https://github.com/rsimmons/subadub) and a browser plugin for
 - `R` resets the plugin (incase it has tripped up)
 - `D` shows debug messages in log window
 
-## Background
+## History
 This script originally required you to upload custom text based subtitle files to Netflix with Netflix's hidden `ctrl+alt+shift+t` shortcut but has since been modified to work in conjunction with [subadub](https://github.com/rsimmons/subadub). Subadub loads in the text based version of subtitles directly from Netflix so the original method is no longer needed.
