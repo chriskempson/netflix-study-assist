@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Netflix Study Assist
 // @author   Chris Kempson (chriskempson.com)
-// @version  1.0.0 (2018-08-23)
+// @version  2.0.0 (2019-02-12)
 // @grant    none
 // @include  *netflix.com*
 // ==/UserScript==
