@@ -15,7 +15,7 @@ Netflix uses image files for subtitles for CJK languages meaning that popup dict
 - Binds the space bar to pause/play
 
 ## Usage
-Requires [subadub](https://github.com/rsimmons/subadub) and a browser plugin for running userscripts such as [Tampermonkey](https://www.tampermonkey.net).
+Requires [Subadub](https://github.com/rsimmons/subadub) and a browser plugin for running userscripts such as [Tampermonkey](https://www.tampermonkey.net).
 
 - `Left mouse button` or `Space Bar` plays/pauses
 - `Middle mouse button` or `L` shows/hides the Netflix UI
