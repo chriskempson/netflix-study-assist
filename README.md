@@ -15,7 +15,7 @@ Netflix uses image files for subtitles for CJK languages meaning that popup dict
 - Binds the space bar to pause/play
 
 ## Usage
-Requires [Subadub](https://github.com/rsimmons/subadub) and a browser plugin for running userscripts such as [Tampermonkey](https://www.tampermonkey.net).
+
 
 - `Left mouse button` or `Space Bar` plays/pauses
 - `Middle mouse button` or `L` shows/hides the Netflix UI
@@ -23,6 +23,11 @@ Requires [Subadub](https://github.com/rsimmons/subadub) and a browser plugin for
 - `P` toggles subtitle autopause
 - `R` resets the plugin (incase it has tripped up)
 - `D` shows debug messages in log window
+
+## Installation
+Requires [Subadub](https://github.com/rsimmons/subadub) and a browser plugin for running userscripts such as [Tampermonkey](https://www.tampermonkey.net).
+
+Once [Tampermonkey](https://www.tampermonkey.net) is installed open this link [netflix-study-assist.user.js](https://github.com/chriskempson/netflix-study-assist/raw/master/netflix-study-assist.user.js) and click the install button.
 
 ## History
 This script originally required you to upload custom text based subtitle files to Netflix with Netflix's hidden `ctrl+alt+shift+t` shortcut but has since been modified to work in conjunction with [subadub](https://github.com/rsimmons/subadub). Subadub loads in the text based version of subtitles directly from Netflix so the original method is no longer needed.
