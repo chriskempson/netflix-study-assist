@@ -9,7 +9,7 @@ Netflix uses image files for subtitles for CJK languages meaning that popup dict
 - Bring text based subtitles to the foreground (so they can be selected by a popup dictionary)
 - Styles subtitles (Download [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru) if you want a Netflix like, rounded Japanese font)
 - Logs previous subtitles, useful if you want to check on something that has just been said
-- Can autopause Netflix after the current subtitle line has been spoken
+- Can autopause Netflix after the current subtitle line has been spoken or before the current line has been spoken
 - Can hide the Netflix interface
 - Bind the left mouse button to pause/play
 - Binds the space bar to pause/play
@@ -21,6 +21,7 @@ Netflix uses image files for subtitles for CJK languages meaning that popup dict
 - `Middle mouse button` or `L` shows/hides the Netflix UI
 - `Right mouse button` or `I` shows/hides the log window
 - `P` toggles subtitle autopause
+- `T` toggles subtitle autopause type 'before' or 'after'
 - `R` resets the plugin (incase it has tripped up)
 - `D` shows debug messages in log window
 
