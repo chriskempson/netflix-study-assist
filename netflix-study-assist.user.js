@@ -317,9 +317,10 @@ function init() {
         else if (event.button === 2) {
           toggleLogWindow();
         }
-
+        
+        log('<span class="light">Mouse button ' + event.button + ' pressed</span>', 'debug');
       };
-      document.addEventListener('click', mouseClickHandler, true);
+      document.addEventListener('mousedown', mouseClickHandler, true);
 
       // Handle keypresses
       keydownHandler = function (event) {
@@ -330,6 +331,7 @@ function init() {
           case ' ':
             event.stopPropagation();
             togglePlayerStatus();
+            log('<span class="light">Space bar pressed</span>', 'debug');
             break;
         }
       };
